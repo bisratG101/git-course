@@ -1,3 +1,6 @@
 get the user data...
 
 we are progressing right now going fast 
+
+
+create an avator for user
